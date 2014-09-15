@@ -1,6 +1,6 @@
 # Glammer
 
-Glammer=[Glacier](http://glaciertheme.com)(by [joeyfigaro](https://github.com/joeyfigaro))+[Brogrammer](https://github.com/kenwheeler/brogrammer-theme)(by [kenwheeler](https://github.com/kenwheeler))
+Glammer=[Glacier](http://glaciertheme.com)(by [joeyfigaro](https://github.com/joeyfigaro) [[Twitter](http://twitter.com/joeyfigaro)])+[Brogrammer](https://github.com/kenwheeler/brogrammer-theme)(by [kenwheeler](https://github.com/kenwheeler))
 
 ![Glammer Screenshot](screenshot0.jpg)
 ![Glammer Screenshot](screenshot1.jpg)
@@ -35,5 +35,3 @@ To change the color of the text input background, open `Glammer.sublime-theme`, 
 ### Credits
 
 Most icons are from the fantastic [Spacegray](https://github.com/kkga/spacegray) by [Gadzhi Kharkharov](https://github.com/kkga/) - the folder icon seen in the sidebar is from the talented [Joe Harrison](http://thenounproject.com/joe_harrison/) via [the noun project](http://thenounproject.com/).
-
-[Twitter](http://twitter.com/joeyfigaro).
