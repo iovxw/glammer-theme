@@ -2,11 +2,11 @@
 
 Glammer=[Glacier](http://glaciertheme.com)(by [joeyfigaro](https://github.com/joeyfigaro) [[Twitter](http://twitter.com/joeyfigaro)])+[Brogrammer](https://github.com/kenwheeler/brogrammer-theme)(by [kenwheeler](https://github.com/kenwheeler))
 
-![Glammer Screenshot](screenshot0.jpg)
-![Glammer Screenshot](screenshot1.jpg)
-![Glammer Screenshot](screenshot2.jpg)
-![Glammer Screenshot](screenshot3.jpg)
-![Glammer Screenshot](screenshot4.jpg)
+![Glammer Screenshot](screenshot0.png)
+![Glammer Screenshot](screenshot1.png)
+![Glammer Screenshot](screenshot2.png)
+![Glammer Screenshot](screenshot3.png)
+![Glammer Screenshot](screenshot4.png)
 (font shown in screenshots is [Ubuntu Mono](http://font.ubuntu.com/))
 
 ## Install
